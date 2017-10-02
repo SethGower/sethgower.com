@@ -1,0 +1,17 @@
+<!-- Contact Section -->
+<section id="contact" class="container content-section text-center">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <h2>Contact</h2>
+                <p>These are some of the Projects I have made over the years. </p>
+                <ul class="col-md-4">
+                    {% for project in site.projects %}
+                    <li>
+                        <h3><a href={{project.url}}>{{project.title}}</a></h3>
+                        <p>{{project.description}}</p>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </section>
