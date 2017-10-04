@@ -25,7 +25,7 @@ projects:
     description: This is the LaTeX source code for my Resume. I wrote this template myself after reading other templates and learning from others
   - title: Bot Fighting
     url: https://github.com/sethgower/botfighting
-    description: This is a 2 player roboto fighting game I made using Light Weight Java Game Library (LWJGL) which utilizes OpenGL
+    description: This is a 2 player robot fighting game I made using Light Weight Java Game Library (LWJGL) which utilizes OpenGL
   - title: Pong
     url: https://github.com/sethgower/pong
     description: This is a 2 player recreation of the classic game Pong I made using Light Weight Java Game Library (LWJGL) which utilizes OpenGL
