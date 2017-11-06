@@ -31,7 +31,15 @@ html {
 
 .navbar {
     margin-bottom: 10px;
+    //background-color: #750F0F;
 }
 body {
     padding-top: 50px;
   }
+a {
+    color: #750F0F;
+}
+
+.active {
+    //background-color: #4E0000;
+}
