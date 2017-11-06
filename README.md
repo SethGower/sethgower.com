@@ -1,4 +1,4 @@
 ### sethgower.com
 This is my personal website, located at [sethgower.com]
 
-This is based on the HTML5up theme [Solid State](https://html5up.net/solid-state). 
+I wrote the html my self using [Bootstrap](http://getbootstrap.com/) and [Font Awesome](http://fontawesome.io/).
