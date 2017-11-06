@@ -1,6 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 html {
     font-family: 'Roboto', sans-serif;
+    position: relative;
+    min-height: 100%;
 }
 .card {
     font-family: 'Roboto', sans-serif;
@@ -35,11 +37,17 @@ html {
 }
 body {
     padding-top: 50px;
+    margin-bottom: 60px;
   }
 a {
     color: #750F0F;
 }
 
-.active {
-    //background-color: #4E0000;
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: inherit;
+  height: 60px;
+  background-color: #ffffff;  
 }
